@@ -9,7 +9,7 @@ Reset my physical and mental rhythm through daily movement — and let the rest 
 ## Supporting Habits (not enforced):
 - ⏰ Wake up at **5:00 AM**
 - 💤 Sleep **8+ hours**
-- 🍽 **16:8 fasting** (first meal ~12:00)
+- 🍽 **16:8 fasting** (first meal ~11am / last meal ~07pm)
 - 🌞 Morning light exposure
 - 🧼 No processed food
 - 🧠 Log each day (in this folder)
@@ -27,3 +27,7 @@ If I skip a day, I log why.
 
 ## Start Date:
 2025-06-09
+
+## Logs:
+- [Day 01](day_01.md)
+
