@@ -12,6 +12,7 @@ Reset my physical and mental rhythm through daily movement — and let the rest 
 - 🍽 **16:8 fasting** (first meal ~11am / last meal ~07pm)
 - 🌞 Morning light exposure
 - 🧼 No processed food
+- 👨🏻‍💻 ~5h deep work
 - 🧠 Log each day (in this folder)
 
 ## Why?
