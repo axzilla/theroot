@@ -55,7 +55,7 @@ This isn’t a course. It’s a journey. And it’s happening in public.
 - [Sugar](topics/sugar.md)
 
 ### 🥾 Follow my challenges
-- [10k Steps Challenge](challenges/10k_steps/intro.md)
+- [10k Steps Challenge](challenges/10k_steps)
 
 ### 🗓 Personal Logs
 
