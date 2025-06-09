@@ -40,3 +40,28 @@ Pull requests are welcome. Add sources, tips, studies, personal insights.
 This isn’t a course. It’s a journey. And it’s happening in public.
 
 ---
+
+## 🔗 Explore The Root
+
+### 📌 Start here (coming soon)
+- [Food](docs/food.md)
+- [Mind](docs/mind.md)
+- [Movement](docs/movement.md)
+- [Science](docs/science.md)
+
+### 🧠 Dive into topics (coming soon)
+- [Fasting](topics/fasting.md)
+- [Blue Light](topics/blue_light.md)
+- [Sugar](topics/sugar.md)
+
+### 🥾 Follow my challenges
+- [10k Steps Challenge](challenges/10k_steps/intro.md)
+
+### 🗓 Personal Logs
+
+> When not doing a specific challenge, I log my thoughts here:
+
+→ [All personal logs](logs/)
+
+---
+
