@@ -2,7 +2,7 @@
 
 **No BS. Real Health. Open Source.**  
 
-A public health journey. From zero to real wellness. For everyone.
+A raw, evolving guide to clean living – for anyone who’s done with the bullshit.
 
 I’m starting this project because I’ve decided to go *all in* on my health. No more half-measures. No more guessing. I want to understand what truly supports the human body – and what silently poisons it.  
 This is my open notebook. My personal “bible.” My path. And anyone can read, learn, and contribute.
