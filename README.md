@@ -1,6 +1,7 @@
 # The Root
 
 **No BS. Real Health. Open Source.**  
+
 A public health journey. From zero to real wellness. For everyone.
 
 I’m starting this project because I’ve decided to go *all in* on my health. No more half-measures. No more guessing. I want to understand what truly supports the human body – and what silently poisons it.  
