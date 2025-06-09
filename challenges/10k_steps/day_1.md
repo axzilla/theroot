@@ -2,6 +2,7 @@
 
 ✅ Core
 	•	⏰ Wake: 5:00 AM (no snooze)
+
 	•	💤 Sleep: 8h 10m
 	•	🚶 Steps: 13,152 (walk: 6:40–8:40 AM)
 	•	☕ Coffee 1: right after wake
