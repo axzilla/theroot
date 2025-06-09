@@ -7,8 +7,8 @@ This is my open notebook. My personal “bible.” My path. And anyone can read,
 
 I’m not an expert. I’m starting from (almost) zero. But I’ll research, question, test, and document everything along the way – clearly, honestly, and practically.
 
-This project is **not about being perfect**. It’s not about weighing your food, buying expensive gadgets, or following strict routines. It’s about understanding what truly matters – and making real health **doable** in everyday life.
-For everyone. In any context. With whatever you have.
+This isn’t about perfect routines, expensive gadgets, or strict diets. It’s about the stuff that really matters in daily life:
+What we eat, what we put on our skin, how we move, how we sleep, and what we expose ourselves to. The everyday decisions that shape our long-term health.
 
 ### What you’ll find here:
 
@@ -20,17 +20,23 @@ For everyone. In any context. With whatever you have.
 * **Science:** how to read studies, detect bias, understand conflicts of interest, filter wellness BS
 * **Plus:** alcohol, pharma, lifestyle myths, anti-aging, mental health, and more
 
-These are just some of the topics I’ll dive into. This journey is open-ended. I’ll also explore controversial themes, conflicting opinions, and things we often take for granted – with curiosity and a critical eye.
+These are just examples – this journey is open-ended. I’ll also dive into controversial topics, conflicting opinions, and things we often take for granted – with curiosity and a critical eye.
 
 The goal:
 A growing collection of *real* insights – no hype, no dogma.
 A living document for anyone who wants to thrive – rich or broke.
-No polished influencer nonsense. Just **practical tools for a clean, doable life**.
+No polished influencer nonsense. Just **practical tools for a clean, doable life.**
+
+---
+
+**Disclaimer:**
+This project is evolving in real time. The structure, file layout, naming conventions – all of it may change over time.
+There’s no fixed roadmap yet. I'm figuring it out as I go. So expect some **breaking changes**, chaos, and spontaneous reorganization. That’s part of the process.
 
 ---
 
 **Want to help?**
-Pull requests are welcome. Add sources, tips, studies, experiences.
+Pull requests are welcome. Add sources, tips, studies, personal insights.
 This isn’t a course. It’s a journey. And it’s happening in public.
 
 ---
